@@ -1,0 +1,6 @@
+model,input_dim,params,train_sec
+Poster,4096,2109463,5.8
+Plot,300,165911,3.6
+Early_fusion,4396,2263063,5.9
+Early_fusion_PCA,600,319511,3.6
+Late_fusion,4096 + 300,2275374,9.4
